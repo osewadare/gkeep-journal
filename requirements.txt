@@ -1,0 +1,5 @@
+# requirements.txt
+gkeepapi
+requests==2.23.0
+urlopen
+boto3
